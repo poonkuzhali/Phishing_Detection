@@ -1,4 +1,4 @@
-# CIS6372 Final Project
+# CIS6372 Information Assurance Final Project
 
 Phishing detection using Machine Learning models and providing local explanations using LIME.
 
